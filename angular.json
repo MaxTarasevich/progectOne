@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "progectOne"
+  "defaultProject": "progectOne",
+  "cli": {
+    "analytics": "8eeb08df-6168-43c7-8d22-634b202f0d46"
+  }
 }
